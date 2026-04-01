@@ -56,6 +56,7 @@ The system is designed as a foundation for wearable gait monitoring, movement an
 
 ## System Architecture
 
+![System Diagram](system_diagram.png)
 ```text
 MPU-6050 IMU
    ↓
